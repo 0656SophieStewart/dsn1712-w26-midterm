@@ -97,3 +97,8 @@ li {
     font-size: 18px;
     margin-bottom: 12px;
 }
+
+/* Hero Image */
+img {
+    width: 100%;
+}
