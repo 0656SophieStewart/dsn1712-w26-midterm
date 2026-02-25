@@ -102,3 +102,9 @@ li {
 img {
     width: 100%;
 }
+
+/* Section spacing */
+section {
+    padding-left: 60px;
+    padding-right: 60px;
+}
